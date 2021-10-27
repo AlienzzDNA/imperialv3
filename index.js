@@ -20,4 +20,4 @@ bot.on('ready', () => {
     }
   })
 
-bot.login('OTAyNzUzNjA1MjA2MDI0MjEy.YXjAzw.iSo8f5qV1lhj463JwkB7tzCdsXY')
+bot.login('personal')
